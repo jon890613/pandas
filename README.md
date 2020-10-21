@@ -43,3 +43,4 @@ df2 = pd.DataFrame({'A': 1.,
                         'E': pd.Categorical(["test", "train", "test", "train"]),
                         'F': 'foo'})
 
+```
